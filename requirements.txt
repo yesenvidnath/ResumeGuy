@@ -1,0 +1,10 @@
+python-dotenv
+pdf2image
+python-docx
+Pillow
+google-generativeai
+pytesseract
+opencv-python
+numpy
+pandas
+pdfminer.six
